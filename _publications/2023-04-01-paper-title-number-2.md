@@ -2,7 +2,7 @@
 title: "Adjacency Constraint for Efficient Hierarchical Reinforcement Learning"
 collection: publications
 category: manuscripts
-venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>IEEE TPAMI</strong>), April 01, 2023'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>IEEE TPAMI</strong>), April 01'
 authors: Tianren Zhang*, <strong>Shangqi Guo*†</strong>, Tian Tan, Xiaolin Hu and Feng Chen
 excerpt: <strong>Summary:</strong> We proposes an adjacency constraint for goal-conditioned hierarchical reinforcement learning that restricts high-level actions to a k-step adjacent region, theoretically preserving optimality in deterministic MDPs and improving training efficiency in stochastic MDPs, leading to significant performance gains in simulated robotics tasks.
 date: 2023-04-01
