@@ -3,7 +3,7 @@ title: "Spiking Variational Policy Gradient for Brain Inspired Reinforcement Lea
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-01-paper-title-number-1
-venue: 'March 1'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>IEEE TPAMI</strong>), March 1'
 authors: Zhile Yang, <strong>Shangqi Guo†</strong>, Ying Fang, Zhaofei Yu and Jian K. Liu
 excerpt: 'We design a recurrent winner-take-all network and propose the spiking variational policy gradient (SVPG), a new R-STDP learning method derived theoretically from the global policy gradient'
 date: 2025-03-01
