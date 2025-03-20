@@ -1,7 +1,7 @@
 ---
 title: "Spiking Variational Policy Gradient for Brain Inspired Reinforcement Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-03-01-paper-title-number-1
 excerpt: 'We design a recurrent winner-take-all network and propose the spiking variational policy gradient (SVPG), a new R-STDP learning method derived theoretically from the global policy gradient'
 date: 2025-03-01
 venue: 'March 1'
