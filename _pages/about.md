@@ -13,21 +13,15 @@ I received my B.S. in Mathematical and Physical Sciences in July 2015 from the U
 **Research Interests**:
 
 🔹 Brain-Inspired Foundation Models 
-
 – Developing brain-inspired theoretical frameworks for next-generation AI beyond transformer-based LLMs.
-
 – Endowing LLMs energy-efficiency learning ability and human-level compositional reasoning ability.
 
 🔹 Spiking Neural Networks (SNNs) 
-
 – Designing neuromorphic neural networks with biologically plausible learning rules (e.g., spike-timing-dependent plasticity).
-
 – Bridging gaps between computational neuroscience and machine learning.
 
 🔹 Brain-Inspired World Models for Real-Time Adaptive Robotics 
-
 – Brain-inspired real-time model-based reinforcement learning for robotics.
-
 – Building embodied intelligence systems inspired by the brain mechanisms of memory, decision, reasoning.
 
 I am dedicated to advancing brain-inspired AGI, exploring novel computing principles, and developing efficient, scalable models for real-world applications.
